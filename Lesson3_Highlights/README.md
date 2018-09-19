@@ -14,7 +14,7 @@ Shalise Franklin
 In this assignment, we will be focusing on the concept of version control systems. We will also be creating a remote repository using GitHub. Additionally, we will also be describing five concepts that we learned about from Lesson 3. 
 
 ## View Project:
-https://sgf16b.github.io/lesson3_VersionControl/
+https://sgf16b.github.io/franklin_lesson3_VersionControl/
 
 ## Lessons Learned in the Assignment:
 1. Reserved words- Reserved words are words in JavaScript that users cannot use as their variable, label, or function names. In other words, reserved words, or keywords, are words that users cannot use when naming variables, functions, objects, properties, methods, and events in their code.
